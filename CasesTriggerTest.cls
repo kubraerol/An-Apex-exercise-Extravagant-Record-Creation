@@ -22,7 +22,7 @@ public with sharing class CasesTriggerTest {
     }
 
     @IsTest
-    static void testInsertBulkCaseWithinTheLimit() {
+    static void testInsertBulkCaseAtTheLimit() {
         List<Case> newCases = new List<Case>();
         Decimal maximum = CaseSetting__c.getValues('Default').MaxCasePerUser__c;
 

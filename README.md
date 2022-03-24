@@ -1,5 +1,4 @@
-# Extravagant-Record-Creation
-An APEX exercise
+# An Apex exercise: Extravagant-Record-Creation
 
 Problem is retrieved from https://www.sfdc99.com/2014/11/10/show-me-the-code-extravagant-record-creation/
 

@@ -10,6 +10,10 @@ Requirements:
 4. Too many cases created this month for user <<Name>> (<<User ID>>): <<Maximum>>
 5. Don’t forget your test class!
   
+*
 3 apex classes (trigger class, trigger handler- class, test class) are developed for the solution. 
 Worked on applying recommended best practices for trigger developments. (https://trailhead.salesforce.com/en/content/learn/modules/apex_triggers, https://niksdeveloper.com/salesforce/apex-trigger-best-practices-all-in-one/)
   
+**
+To make the maximum number is configurable, a new custom setting is created. (Setting Type of the setting is list. If you can not select the type as list, please check 'Manage list custom settings type' is enabled in 'Schema Settings') 
+  ![image](https://user-images.githubusercontent.com/34946067/160011786-f9cc6871-e635-4a46-96b7-bf16a9c044b2.png)
